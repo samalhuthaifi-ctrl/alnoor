@@ -80,7 +80,7 @@ export const content = {
     },
     footer: {
       quickLinks: 'روابط سريعة',
-      copyright: '© 2024 شركة النور للاستشارات الهندسية. جميع الحقوق محفوظة.'
+      copyright: 'AL-HUTHAIFI شركة النور للاستشارات الهندسية. جميع الحقوق محفوظة.'
     }
   },
   en: {
