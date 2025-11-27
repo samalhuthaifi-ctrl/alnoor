@@ -73,7 +73,7 @@ export const content = {
       message: 'رسالتك',
       send: 'إرسال',
       info: {
-        phone: '+966 XX XXX XXXX',
+        phone: '+966 536 XXX XXXX',
         email: 'info@alnoor.sa',
         address: 'الرياض، المملكة العربية السعودية'
       }
